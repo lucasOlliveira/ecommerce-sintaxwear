@@ -1,5 +1,6 @@
 /* Base CSS — estilos básicos para a aplicação */
 body {
-    font-family: var(--fonte-principal);
+    font-family: var(--fonte-principal);    
+    color: #333333;
     
 }
